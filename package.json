@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-express-mongoose-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.5",
+    "express": "~4.16.0",
+    "jsonwebtoken": "^8.2.2",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose": "^5.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
