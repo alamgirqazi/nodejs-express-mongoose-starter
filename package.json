@@ -16,7 +16,7 @@
     "express": "~4.16.0",
     "jsonwebtoken": "^8.2.2",
     "mongoose-paginate": "^5.0.3",
-    "mongoose": "^5.4.0"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "dotenv": "^6.0.0",
